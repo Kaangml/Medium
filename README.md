@@ -4,4 +4,4 @@ chest_xray: https://medium.com/@gumelekaan/medikal-görüntü-i̇şlemede-derin-
 
 Missing_Values, Outliers: https://medium.com/@gumelekaan/feature-engineering-26d63e0eec77
 
-Alone_neuron: 
+Alone_neuron_v2: 
